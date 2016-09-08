@@ -1,6 +1,7 @@
 # dte
 
 Address: 0xFd2407D2A34a5CC0F8ea2962DEf3c9A520B66840
+You need to add that address as a token too to view DTE Shares.
 
 DTE stands for Decentralized Token Exchange and it is an ethereum smart contract.
 It has 1% fee for the order taker, the fee is distributed between the contract's share holders by its shares token.
